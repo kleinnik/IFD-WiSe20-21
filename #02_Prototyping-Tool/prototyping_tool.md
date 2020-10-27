@@ -3,7 +3,7 @@ Niklas Klein
 
 ## Allgemeine Beschreibung: was zeichnet das Werkzeug aus, was sind die Kernfeatures?
 
-<img href="oberflaeche_xdpin.PNG">
+![Screenshot](oberflaeche_xdpin.PNG)
 
 ## Fidelity: für welchen Reifegrad der (a) Interaktivität, (b) Visualisierung und (c) Inhaltsentwicklung eigenet sich das Tool
 
