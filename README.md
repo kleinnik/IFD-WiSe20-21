@@ -1,6 +1,8 @@
 # IFD-WiSe20-21
 Niklas Klein, Interface Design, WiSe 2020/2021, OMB 5
 
+## Aufgabe 04
+<a href="https://kleinnik.github.io/IFD-WiSe20-21/04_VUI_Konzept/VUI_Konzept.pdf" target="blank">VUI_Konzept</a>
 ## Aufgabe 03
 <a href="https://kleinnik.github.io/IFD-WiSe20-21/03_High-Fid_Protype/index.html" target="blank">High-Fid Prototype</a>
 ## Aufgabe 02
