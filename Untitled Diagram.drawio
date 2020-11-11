@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T14:00:24.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" version="13.9.6" etag="6pTGrqsTbq2AEcfJ6emL" type="github"><diagram id="VtJGWXY5AIby0eKGTAlb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-11T14:18:12.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="nTJRAorRcK9laQgUT982" version="13.9.6" type="github">
+  <diagram id="VtJGWXY5AIby0eKGTAlb" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="38EbFkuRc0QdLdWAJz---1" value="Moin DIGI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="379" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---2" value="Hallo Niklas, wie kann ich dir helfen?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="368" y="90" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---3" value="Habe ich neue Nachrichten?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---4" value="Wann beginnt die Prüfungsphase?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="592" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---5" value="Du hast 2 Neue Nachrichten erhalten." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="160" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---6" value="Von wem und über welches Portal?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---7" value="Lies mir die Betreffzeilen vor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---8" value="Die Prüfungsphase beginnt am 01.02.2021" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605.25" y="155" width="93.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---9" value="Nachricht 1: &quot;Tag der Medien&quot;&lt;br&gt;Nachricht 2: &quot;Wir sind jetzt auf Felix&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="212.25" y="305" width="115.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---10" value="Nachricht 1: Von rona@hs-furtwangen.de über Webmail.&lt;br&gt;Nachricht 2: Von lochmann, david über Felix." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="46.13" y="290" width="127.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---11" value="Lies mir bitte die Mail von David Lochmann vor." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50.01" y="410" width="119.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---12" value="Lies mir bitte Nachricht 2 vor." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="207.76" y="410" width="119.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---13" value="Nachricht 2 von David Lochmann: &quot;Liebe Studierende, lorem ipsum dolor sit amet...&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="123.06" y="480" width="133.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---14" value="Bitte auf diese Mail antworten." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130.01" y="585" width="119.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---15" value="Teil mir deine Nachricht mit." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="123.06" y="660" width="136.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---16" value="Hallo Herr Lochmann, danke für die Info. Die von Ihnen angesprochene Aufgabe werde ich schnellstmöglichst erledigen und auf Felix hochladen. Gruß Niklas&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80.01" y="740" width="219.99" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---17" value="Deine Nachricht: &quot;Hallo Herr Lo (...) Gruß Niklas&quot; versenden?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="121.54" y="840" width="136.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---18" value="Ja!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="161.54000000000002" y="920" width="59.99" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---19" value="Deine Nachricht wurde mit dem Betreff: &quot;AW:Wir sind jetzt auf Felix&quot; an david.lochmann@hs-furtwangen.de gesendet." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="115.77000000000001" y="990" width="148.46" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="38EbFkuRc0QdLdWAJz---20" value="Danke DIGI!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="161.54000000000002" y="1100" width="59.99" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
