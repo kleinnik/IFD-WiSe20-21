@@ -1,6 +1,8 @@
 # IFD-WiSe20-21
 Niklas Klein, Interface Design, WiSe 2020/2021, OMB 5
 
+## Aufgabe 07
+<a href="https://kleinnik.github.io/IFD-WiSe20-21/07_Virtual_Immersive_Lecture/VR-Entwurf.pdf" target="blank">Virtual Immersive Lecture - Konzept</a>
 ## Aufgabe 06
 <a href="https://kleinnik.github.io/IFD-WiSe20-21/06_Cardboard-Brille/Dokumentation_Cardboard.pdf" target="blank">VR Cardboard Brille</a>
 ## Aufgabe 05
